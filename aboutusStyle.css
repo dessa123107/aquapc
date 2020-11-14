@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Impact;
+}
+.Homearea {
+    color: white;
+    text-decoration: none;
+    
+    
+}
+.about-us-page{
+    color: aquamarine
+}
+.title-banner{
+    width: 90%;
+    height: 70%;
+    top: 25%;
+    left: 130px;
+    position: absolute;
+    color: white;
+    
+    
+
+}
+.about-us-text{
+    width: 50%;
+    float: left;
+}
+.about-us-text hl{
+    font-size: 100px;
+    width: 640px;
+    position: relative;
+    margin-left: 40px;
+}
+.pc-picture img{
+    width: 35%;
+    margin-top: -5px;
+    padding-left: 50px;
+}
+.contact-us-page{
+    text-decoration: none;
+    color: white;
+}
